@@ -8,6 +8,9 @@ authors = [
 	{name = "Brae Webb"},
 	{name = "Millie Hughes"},
 ]
+student = [
+	{name = "Chi Ji",ID = "49585749“},
+]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
